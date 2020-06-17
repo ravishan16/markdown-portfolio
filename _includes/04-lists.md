@@ -17,8 +17,9 @@
 
 <p>
 
-- :books: Reading 
-- :watch: Horology
-- :computer: Coding
+- :books: **Reading**
+- :watch: **Horology**
+- :computer: **Codings**
+- :bike: **Biking**
 </p>
 </details>  
