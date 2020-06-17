@@ -10,16 +10,3 @@
 - [*LinkedIn*](https://www.linkedin.com/in/ravibi/)
 </p>
 </details>  
-
-
-<details open>
-<summary>Interests</summary>
-
-<p>
-
-- :books: **Reading**
-- :watch: **Horology**
-- :computer: **Codings**
-- :bike: **Biking**
-</p>
-</details>  
